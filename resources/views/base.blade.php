@@ -10,7 +10,7 @@
     <!-- Canonical -->
     <link rel="canonical" href="">
 
-    <title>Laravel 5.4</title>
+    <title>SISKA</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
@@ -40,11 +40,12 @@
                 <a href="/">Home</a>
             </li>
             <li>
-                <a href="/halamandua">- Halaman Dua</a>
+                <a href="/halamandua">- Profile </a>
             </li>
             <li>
-                <a href="/halamantiga">- Halaman Tiga</a>
+                <a href="/halamantiga">- Pekerjaan </a>
             </li>
+			
         </ul>
     </aside>
 
